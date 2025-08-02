@@ -29,6 +29,7 @@ Este projeto demonstra uma arquitetura serverless que aplica automaticamente uma
 ## 🔐 Permissões da IAM Role
 
 A função Lambda utiliza uma role com as seguintes permissões mínimas:
+
 ```json
 {
   "Effect": "Allow",
@@ -40,7 +41,3 @@ A função Lambda utiliza uma role com as seguintes permissões mínimas:
   ],
   "Resource": "*"
 }
-
-Obs: Em produção, você deve restringir os ARNs para maior segurança.
-
-![Arquitetura AWS - Tag Automática em Objetos S3](arquitetura.png)
