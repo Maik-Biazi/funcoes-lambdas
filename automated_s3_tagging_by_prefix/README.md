@@ -41,6 +41,7 @@ A função Lambda utiliza uma role com as seguintes permissões mínimas:
   ],
   "Resource": "*"
 }
+```  <!-- ⬅️ Fecha o bloco de código JSON aqui -->
 
 > ⚠️ **Obs:** Em produção, você deve restringir os ARNs para maior segurança.
 
