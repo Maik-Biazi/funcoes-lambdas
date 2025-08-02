@@ -42,8 +42,8 @@ A função Lambda utiliza uma role com as seguintes permissões mínimas:
   "Resource": "*"
 }
 
-⚠️ Obs: Em produção, você deve restringir os ARNs para maior segurança.
+> ⚠️ **Obs:** Em produção, você deve restringir os ARNs para maior segurança.
 
+## 📷 Diagrama da Arquitetura
 
-📷 Diagrama da Arquitetura
 ![Arquitetura da Solução](arquitetura.png)
