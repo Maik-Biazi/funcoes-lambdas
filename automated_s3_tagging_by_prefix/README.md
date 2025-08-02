@@ -46,4 +46,4 @@ A função Lambda utiliza uma role com as seguintes permissões mínimas:
 
 
 📷 Diagrama da Arquitetura
-![Arquitetura](arquitetura.png)
+![Arquitetura da Solução](arquitetura.png)
