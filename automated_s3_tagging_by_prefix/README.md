@@ -40,3 +40,7 @@ A função Lambda utiliza uma role com as seguintes permissões mínimas:
   ],
   "Resource": "*"
 }
+
+Obs: Em produção, você deve restringir os ARNs para maior segurança.
+
+![Arquitetura AWS - Tag Automática em Objetos S3](arquitetura.png)
